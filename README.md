@@ -162,3 +162,12 @@ radio_field = RadioElement(radio_element)
 test_form.add(radio_field, True)
 test_form.complete()
 ```
+
+## Changelog
+See Changelog [here](https://github.com/ultimaterpa/urpaform/blob/master/CHANGELOG.md)
+
+## Issues
+Something does not work? Do you miss an useful feature in urpaform? Submit an issue if you find any bug or have any suggestion.
+
+## Contribution
+Would you like to help with urpaform develompent? Fork the repo and submit pull requests.
